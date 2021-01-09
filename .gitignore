@@ -1,0 +1,19 @@
+# files
+.git
+*.log
+*.zip
+
+# folders
+node_modules/
+logs/
+coverage/
+
+# 自有配置
+.vscode/
+.idea/
+npm-debug.log.*
+.DS_Store
+
+package-lock.json
+c-script.json
+app/schema-backup/

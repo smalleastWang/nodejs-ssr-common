@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{web}}</title>
+    {{#block "css"}}
+        <link rel="stylesheet" href="assets/css/screen.css" />
+    {{/block}}
+    {{#block "pre-js"}}
+    {{/block}}
+</head>
+<body>
+    {{#> header}}{{/ header}}
+    {{#block "body"}}
+        <h2>Hello World</h2>
+    {{/block}}
+    {{#> footer}}{{/ footer}}
+    {{#block "js"}}
+        <link rel="stylesheet" href="assets/css/screen.css" />
+    {{/block}}
+</body>
+</html>

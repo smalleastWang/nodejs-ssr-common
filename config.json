@@ -1,0 +1,9 @@
+{
+    "port": 3005,
+    "staticPath": "./public",
+    "qiniuAccessKey": "LzNOk6eRxgjUF1u795Wn-fvyYQLA7XHupbvL_ptC",
+    "qiniuSecretKey": "BVWfHHBU_U-hXiO5SwEezYavY3Fv66ar_bv6fmVT",
+    "qiniuBucket": "iku",
+    "secretKey": "shhhhhhared-secret",
+    "dbUrl": "mongodb://root:SmallEast1022.@64.64.235.77:27017"
+}
